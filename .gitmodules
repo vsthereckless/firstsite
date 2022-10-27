@@ -1,0 +1,3 @@
+[submodule "firstsite"]
+	path = firstsite
+	url = https://github.com/vsthereckless/firstsite.git
